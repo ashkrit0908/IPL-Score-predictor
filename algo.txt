@@ -1,0 +1,15 @@
+ALGORITHM 
+
+STEP 1 - Run Linear Regression on provided data set and store output in EXCEL file
+STEP 2 - Start the code in main.py
+STEP 3 - import libraries in main.py
+STEP 4 - import predictruns from predictor.py
+STEP 5 - pass inputFile.csv to predictor.py
+STEP 6 - Start code in predictor.py
+STEP 7 - Define predict runs
+STEP 8 - initialse all variable like battingteam, bowlingteam, innings etc. taking input from inputFile.csv
+STEP 9 - Assign no.s to all the entities
+STEP 10 - Import previously defined linear regression data 
+STEP 11 - Perform operations on data 
+STEP 12 - Return predicted runs
+STEP 13 - end
